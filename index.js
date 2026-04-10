@@ -1,2 +1,3 @@
 let name = "lucas";
-console.log(name);
+ 
+let age = 30;
