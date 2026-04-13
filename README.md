@@ -50,3 +50,4 @@ Descreva o que você fez no GitHub.
 
 https://github.com/Pedro-HPB/trainee-console.git
 
+https://github.com/Pedro-HPB/exercicio1.git
