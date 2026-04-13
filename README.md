@@ -1,4 +1,4 @@
-# 🚀 Projeto Trainee - [Seu Nome]
+# 🚀 Projeto Trainee - Kauan Ortiz
 
 Este repositório foi criado como parte da capacitação de trainees.
 
