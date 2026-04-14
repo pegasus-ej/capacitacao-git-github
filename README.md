@@ -1,4 +1,4 @@
-# 🚀 Projeto Trainee - [Seu Nome]
+## 🚀 Projeto Trainee - [Matheus Druski]
 
 Este repositório foi criado como parte da capacitação de trainees.
 
@@ -22,11 +22,12 @@ Liste as alterações realizadas por você.
 
 Exemplos:
 
-- Alteração na cor do botão
-- Criação de nova funcionalidade
-- Adição de mensagens novas
-- Melhoria no layout
-- Correção de erros
+- [x] Alteração na cor do botão
+- [x] Criação de uma calculadora simples
+- [x] Criação de nova funcionalidade
+- [x] Adição de mensagens novas
+- [x] Melhoria no layout
+- [x] Correção de erros
 
 ---
 
@@ -39,6 +40,7 @@ Exemplo:
 - HTML
 - CSS
 - JavaScript
+- Python
 - Markdown
 - Git
 - GitHub
@@ -62,4 +64,7 @@ Exemplo:
 
 # 🔗 Links dos repositórios
 
-Adicione aqui os links solicitados na atividade.
+- [Atividade1](https://github.com/matheus-druski/ex01)
+- [Atividade2](https://github.com/matheus-druski/aula-pegasus)
+- [Ativdade3](https://github.com/matheus-druski/destruicao-trainees)
+- [Atividade4](https://github.com/matheus-druski/terminal)
