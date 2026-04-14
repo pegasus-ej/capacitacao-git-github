@@ -34,6 +34,15 @@ g++ calculadora.cpp -o calculadora*
 - Markdown
 
 
+## Fluxo Realizado 
+
+- Clone do repositório
+- Fork do repositório
+- Alterações no código
+- Commit das alterações
+- Criação de branch
+- Criação de Pull Request
+
 ---
 
 ## 🔗 Links dos repositórios
