@@ -1,4 +1,5 @@
 # Calculadora Simples em C++
+
 Este é um projeto simples desenvolvido em C++ com a funcionalidade/tentativa de calcular
 
 O programa possibilita:
@@ -10,7 +11,7 @@ O programa possibilita:
 
 
 
-## Funcionalidade
+## Funcionalidades
 
 - Soma ('+')
 - Subtração ('-')
@@ -28,7 +29,7 @@ g++ calculadora.cpp -o calculadora*
 
 
 
-## Tecnologiar Utilizadas
+## Tecnologias Utilizadas
 
 - C++
 - Markdown
