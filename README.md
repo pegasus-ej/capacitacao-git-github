@@ -1,4 +1,4 @@
-# 🚀 Projeto Trainee - [Seu Nome]
+# 🚀 Projeto Trainee - Kauan Ortiz
 
 Este repositório foi criado como parte da capacitação de trainees.
 
@@ -6,60 +6,52 @@ Este repositório foi criado como parte da capacitação de trainees.
 
 # 📌 Sobre o Projeto
 
-Descreva aqui o que você fez neste projeto.
-
-Exemplo:
-
-Este projeto contém alterações feitas no repositório base,
-incluindo melhorias visuais, novas funcionalidades e ajustes
-no código para praticar o fluxo de desenvolvimento com Git e GitHub.
+Desenvolvi uma calculadora de números inteiros, separando o processo em branchs e merges em cada parte, lembrando
+de realizar commits claros e breves.
 
 ---
 
 # 🛠️ O que foi feito
 
-Liste as alterações realizadas por você.
+O projeto foi desenvolvido em branchs, como por exemplo:
 
-Exemplos:
+main *
+soma
+subtracao
+divisao
+multiplicacao
 
-- Alteração na cor do botão
-- Criação de nova funcionalidade
-- Adição de mensagens novas
-- Melhoria no layout
-- Correção de erros
+Após o desenvolvimento de cada uma, executei um merge no branch main e logo após excluí a branch que foi fundida com main,
+podendo assim evitar futuras confusões.
 
 ---
 
 # 💻 Tecnologias utilizadas
 
-Liste as tecnologias usadas no projeto.
+Tecnologias utilizadas:
 
-Exemplo:
-
-- HTML
-- CSS
-- JavaScript
-- Markdown
 - Git
-- GitHub
+- Github
+- C
 
 ---
 
 # 🔀 Fluxo realizado
 
-Descreva o que você fez no GitHub.
+Descrição do fluxo:
 
-Exemplo:
-
-- Fork do repositório
-- Clone do repositório
-- Criação de branch
-- Alterações no código
-- Commit das alterações
-- Criação de Pull Request
+- Criação de repositório na máquina
+- Clone do repositório hospedado no Github
+- Edição do README e criação de um arquivo .c
+- Desenvolvimento de branchs separadas da branch main
+- Adição das mudanças ao estado Stage
+- Commits simples e diretos
+- Merge das demais branchs na main
+- Exclusão das merges já fundidas
+- Pull request da minha branch main
 
 ---
 
 # 🔗 Links dos repositórios
 
-Adicione aqui os links solicitados na atividade.
+https://github.com/kauanortiz/Repositorio-EJ.git
