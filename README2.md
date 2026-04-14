@@ -1,65 +1,42 @@
-# 🚀 Projeto Trainee - [Lucas Penna De Souza]
+# Calculadora Simples em C++
+Este é um projeto simples desenvolvido em C++ com a funcionalidade/tentativa de calcular
 
----
+O programa possibilita:
 
-# 📌 Sobre o Projeto
+- Somar numeros
+- subtrair numeros
+- multiplicar numeros
+- dividir numeros
 
-Descreva aqui o que você fez neste projeto.
 
-Exemplo:
 
-Este projeto contém alterações feitas no repositório base,
-incluindo melhorias visuais, novas funcionalidades e ajustes
-no código para praticar o fluxo de desenvolvimento com Git e GitHub.
+## Funcionalidade
 
----
+- Soma ('+')
+- Subtração ('-')
+- Multiplicação ('*')
+- Divisão ('/')
 
-# 🛠️ O que foi feito
 
-Liste as alterações realizadas por você.
 
-Exemplos:
+## Como executar 
 
-- Alteração na cor do botão
-- Criação de nova funcionalidade
-- Adição de mensagens novas
-- Melhoria no layout
-- Correção de erros
+Compile o arquivo com o comando:
+*```bash
+g++ calculadora.cpp -o calculadora*
 
----
 
-# 💻 Tecnologias utilizadas
 
-Liste as tecnologias usadas no projeto.
 
-Exemplo:
+## Tecnologiar Utilizadas
 
-- HTML
-- CSS
-- JavaScript
+- C++
 - Markdown
-- Git
-- GitHub
+
 
 ---
 
-# 🔀 Fluxo realizado
-
-Descreva o que você fez no GitHub.
-
-Exemplo:
-
-- Fork do repositório
-- Clone do repositório
-- Criação de branch
-- Alterações no código
-- Commit das alterações
-- Criação de Pull Request
-
----
-
-# 🔗 Links dos repositórios
-
-Exercicio de verificacao: [https://github.com/PennaLucas/Exercice_For_Verification]
-Verificacao de senha: [https://github.com/PennaLucas/verification.py]
-Verificacao de idade pelo python: [https://github.com/PennaLucas/ageverification.py]
+## 🔗 Links dos repositórios
+- Exercicio de verificacao: [https://github.com/PennaLucas/Exercice_For_Verification]
+- Verificacao de senha: [https://github.com/PennaLucas/verification.py]
+- Verificacao de idade pelo python: [https://github.com/PennaLucas/ageverification.py]
