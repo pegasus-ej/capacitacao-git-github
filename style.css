@@ -1,0 +1,57 @@
+* {
+    margin: 15px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+body { 
+    background-color: lightblue;
+    border: 5px solid black;
+    height: auto ;
+    width: auto;
+    text-align: left;
+}  
+.imagem_de_perfil {
+    border-radius: 50%;
+}
+a {
+    color: blue; 
+    }
+
+a:hover {
+    color: orangered;
+    cursor: pointer;
+}
+
+a:focus {
+    color: purple;
+}
+.paragrafo {
+    background-color: white;
+    border: 2px solid black;
+    padding: auto;
+    width: auto;
+    height: auto;
+}
+#k0 {
+    background-color: white;
+    border: 2px solid black;
+    padding: auto;
+    width: auto;
+    height: auto;
+}
+#k1 {
+    font-size: 20px;
+    color: black;
+}
+#k2 {
+    font-size: 18px;
+}
+#k3 > ol {
+    font-size: 18px;
+    color: blue;
+    }
+#k4 {
+    font-size: 18px;
+    color: red;
+    }
